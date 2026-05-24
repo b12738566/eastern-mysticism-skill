@@ -64,13 +64,13 @@ cp -r path/to/eastern-mysticism-skill/eastern-mysticism .agents/skills/
 ```
 用户：使用 Eastern mysticism帮我算一下
 Claude：您好！请问您的出生日期是公历还是农历？哪一年哪一月哪一日？
-用户：农历 2001年冬月初一
+用户：农历 2001年X月初一
 Claude：好的。请问具体的出生时间是几点几分？
 用户：凌晨1点
 Claude：丑时。请问您的性别？
 用户：男
 Claude：请问出生地点？（用于真太阳时校正）
-用户：福建省厦门市
+用户：X省X市
 Claude：信息齐全。您想了解哪些方面？
 用户：都要
 Claude：[排盘 → 五行 → 十神 → 大运 → 起伏表 → 流年 → 专项 → 建议]
