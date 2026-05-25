@@ -44,9 +44,7 @@ The skill will ask you step-by-step: birth date → time → gender → birthpla
 
 ```bash
 git clone https://github.com/b12738566/eastern-mysticism-skill.git
-cd your-project
-mkdir -p .agents/skills
-cp -r path/to/eastern-mysticism-skill/eastern-mysticism .agents/skills/
+
 ```
 
 ## Usage
