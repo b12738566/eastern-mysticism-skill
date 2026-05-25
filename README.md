@@ -82,6 +82,9 @@ Claude: [Chart → Five Elements → Ten Gods → Cycles → Fortune Curve
          → Annual Forecast → Monthly Heatmap → Specialty → Advice]
         Report saved to fortune-reports/命理报告_2026-05-24.html
 ```
+<img width="1025" height="827" alt="image" src="https://github.com/user-attachments/assets/ea4f2e81-2976-4f40-bd6a-231289ad9c02" />
+<img width="1017" height="1312" alt="image" src="https://github.com/user-attachments/assets/d759526d-0c78-4f97-83c9-77e78ab39b3f" />
+<img width="1015" height="1044" alt="image" src="https://github.com/user-attachments/assets/e9b2b87e-4494-4151-8023-c652fcc7148c" />
 
 ## Structure
 
